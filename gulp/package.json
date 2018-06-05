@@ -1,0 +1,19 @@
+{
+  "name": "GulpExample",
+  "version": "1.0.0",
+  "description": "A TypeScript tutorial using Gulp",
+  "main": "./dist/main.js",
+  "author": "David Yell",
+  "license": "MIT",
+  "dependencies": {
+    "gulp-cli": "^2.0.1"
+  },
+  "devDependencies": {
+    "browserify": "^16.2.2",
+    "gulp": "^3.9.1",
+    "gulp-typescript": "^4.0.2",
+    "tsify": "^4.0.0",
+    "typescript": "^2.8.3",
+    "vinyl-source-stream": "^2.0.0"
+  }
+}
